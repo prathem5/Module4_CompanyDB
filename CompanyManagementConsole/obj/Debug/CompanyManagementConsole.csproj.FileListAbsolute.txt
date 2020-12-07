@@ -1,0 +1,7 @@
+F:\cSharp\CompanyManagementConsole\obj\Debug\CompanyManagementConsole.csprojAssemblyReference.cache
+F:\cSharp\CompanyManagementConsole\obj\Debug\CompanyManagementConsole.csproj.CoreCompileInputs.cache
+F:\cSharp\CompanyManagementConsole\bin\Debug\CompanyManagementConsole.exe.config
+F:\cSharp\CompanyManagementConsole\bin\Debug\CompanyManagementConsole.exe
+F:\cSharp\CompanyManagementConsole\bin\Debug\CompanyManagementConsole.pdb
+F:\cSharp\CompanyManagementConsole\obj\Debug\CompanyManagementConsole.exe
+F:\cSharp\CompanyManagementConsole\obj\Debug\CompanyManagementConsole.pdb
